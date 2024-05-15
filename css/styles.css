@@ -1,0 +1,69 @@
+.footer-page {
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding: 10px 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.title-navbar {
+    margin: 0;
+    margin-right: 20px;
+}
+
+.title {
+    font-size: 15px;
+    margin: 0;
+}
+.title, .title-navbar {
+   padding: 6px 0;
+   margin-right: 20px;
+}
+
+.apresentacao, .refs, .main-contatos, .main-formulario {
+    margin: 10px 35px;
+}
+
+
+.link-buttons {
+    border-radius: 5px;
+    background-color: #55b8ff;
+    margin-top: 10px;
+    margin-left: 5px;
+    padding: 2px 4px;
+    text-decoration: none;
+    color: white;
+}
+
+.link-buttons:hover {
+    background-color: #0095ff;
+}
+
+#carouselExampleFade {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+}
+
+.fa-twitter, .fa-instagram {
+    font-size: 19px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+input {
+    border: 1px solid;
+    border-radius: 5px;
+    display: block;
+}
+
+#enviar {
+    margin-left: 0;
+}
